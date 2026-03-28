@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Kỹ năng lãnh đạo",
+        "icon": "https://img.icons8.com/color/48/manager.png"
+    },
+    {
+        "name": "Kỹ năng làm việc nhóm",
+        "icon": "https://img.icons8.com/color/48/groups.png"
+    },
+    {
+        "name": "Đàm phán & Thuyết phục",
+        "icon": "https://img.icons8.com/color/48/handshake.png"
+    },
+    {
+        "name": "Giải quyết vấn đề",
+        "icon": "https://img.icons8.com/color/48/idea.png"
+    },
+    {
+        "name": "Phân tích thị trường",
+        "icon": "https://img.icons8.com/color/48/google-trends.png"
+    },
+    {
+        "name": "Marketing & Sales",
+        "icon": "https://img.icons8.com/color/48/sales-performance.png"
+    },
+    {
+        "name": "MS Office (Excel, Word, PPT)",
+        "icon": "https://img.icons8.com/color/48/microsoft-office2019.png"
+    },
+    {
+        "name": "CRM (Salesforce, HubSpot)",
+        "icon": "https://img.icons8.com/color/48/salesforce.png"
+    },
+    {
+        "name": "ERP (SAP, Oracle)",
+        "icon": "https://img.icons8.com/color/48/sap.png"
+    }
+]
